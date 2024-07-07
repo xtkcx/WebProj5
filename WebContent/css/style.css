@@ -27,12 +27,14 @@ box-shadow: 2px 2px 1px rgba(0,0,0,0.1),0px 1px 1px rgba(255,255,255,0.3) inset;
 tabletrtd {
 padding: 8px 15px;
 border-bottom: 1px solid #84b2e0;
-border-left: 1px solid #84b2e0; text-align: center;
+border-left: 1px solid #84b2e0; 
+text-align: center;
 }
 tabletrtd :last-child {
-border-right: 1px solid #84b2e0; box-shadow: 2px 2px 1px rgba(0,0,0,0.1);
+border-right: 1px solid #84b2e0; 
+box-shadow: 2px 2px 1px rgba(0,0,0,0.1);
 }
-tabletr {
+tabletr{
 background: #fff;
 }
 tabletr:nth-child(2n+1) {
